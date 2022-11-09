@@ -5,7 +5,7 @@
 )](https://www.linkedin.com/in/jordanilson-fernando-258462252/)
 
 
-![Jordanilson GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanilson&show_icons=true&theme=onedark)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jordanilson&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Jordanilson GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanilson&show_icons=true&theme=onedark)
 
 ### Tecnologias que eu uso no meu dia a dia:
 <div style="display: inline_block">

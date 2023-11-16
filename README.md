@@ -3,7 +3,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordanilson-fernando-258462252/)
 ![Jordanilson GitHub stats](https://github-readme-stats.vercel.app/api?username=jordanilson&show_icons=true&theme=onedark)
 
-![Snake animation](https://github.com/jordanilson/jordanilson/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/${{jordanilson}}/github-contribution-grid-snake.svg)
+
 
 ### Tecnologias que eu uso no meu dia a dia:
 <div style="display: inline_block">
